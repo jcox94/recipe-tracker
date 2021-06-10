@@ -1,13 +1,9 @@
 package main
 
 import (
-	// "bytes"
-	//"encoding/csv"
 	"encoding/json"
-	// "io"
 	"log"
 	"os"
-	// "strconv"
 )
 
 type Ingredient struct {

@@ -7,9 +7,6 @@ import (
 
 	"github.com/aarzilli/nucular"
 	"github.com/aarzilli/nucular/label"
-	//	"github.com/aarzilli/nucular/rect"
-
-	//"github.com/aarzilli/nucular/rect"
 	"github.com/aarzilli/nucular/style"
 )
 
