@@ -1,8 +1,8 @@
-* Recipe Tracker (I should come up with a cooler name)
+# Recipe Tracker (I should come up with a cooler name)
 
 A (work in progress!) gui-based program for keeping track of recipes and their nutritional info.
 
-** Overview
+## Overview
 
 The bulk of the data consists of ingredients, which hold their own nutritional info, and recipes, which
 hold a list of ingredients and how much of each ingredient to use. When adding a new recipe, if 
